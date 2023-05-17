@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>22E261</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en_US</string>
+	<key>CFBundleExecutable</key>
+	<string>Frizon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>swift-playgrounds-app.Frizon</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Frizon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>22E245</string>
+	<key>DTPlatformName</key>
+	<string>maccatalyst</string>
+	<key>DTPlatformVersion</key>
+	<string>16.4</string>
+	<key>DTSDKBuild</key>
+	<string>22E245</string>
+	<key>DTSDKName</key>
+	<string>macosx13.3</string>
+	<key>DTSwiftPlaygroundsBuild</key>
+	<string>4H112</string>
+	<key>DTSwiftPlaygroundsVersion</key>
+	<string>4.3</string>
+	<key>DTXcodeBuild</key>
+	<string>14E9112</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.business</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSAccentColorName</key>
+	<string>__PresetAccentColor</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>frizonbuilds.com</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+				<key>NSIncludesSubdomains</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your media library, and exercise caution if providing personal or financial information.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access Bluetooth, and exercise caution if providing personal or financial information.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your calendar, and exercise caution if providing personal or financial information.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access the camera, and exercise caution if providing personal or financial information.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your contacts, and exercise caution if providing personal or financial information.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access Face ID, and exercise caution if providing personal or financial information.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access the local network, and exercise caution if providing personal or financial information.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your location, and exercise caution if providing personal or financial information.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your location, and exercise caution if providing personal or financial information.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access the microphone, and exercise caution if providing personal or financial information.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your motion data, and exercise caution if providing personal or financial information.</string>
+	<key>NSNearbyInteractionAllowOnceUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it access information about nearby devices, and exercise caution if providing personal or financial information.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to add photos to your library, and exercise caution if providing personal or financial information.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your photos, and exercise caution if providing personal or financial information.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to access your reminders, and exercise caution if providing personal or financial information.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to perform speech recognition, and exercise caution if providing personal or financial information.</string>
+	<key>NSUserTrackingUsageDescription</key>
+	<string>This app playground has not been reviewed by Apple. Make sure you trust the source of this app playground before allowing it to track your behavior, and exercise caution if providing personal or financial information.</string>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<true/>
+	</dict>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
