@@ -1,0 +1,6 @@
+ {
+     "zoom": {
+         "clientId": "<your client id>",
+         "redirectUri": "<your redirect URL>"
+     }
+ }

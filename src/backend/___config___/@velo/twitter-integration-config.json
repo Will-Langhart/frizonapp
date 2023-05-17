@@ -1,0 +1,16 @@
+{
+    "site": {
+
+        "baseURL": "https://asafr3.wixsite.com/twitter-package",
+
+        "events": {
+            "tweetOnNewStoreProduct": true,
+            "tweetOnNewEvent": true
+        },
+
+        "templates": {
+            "tweetOnNewStoreProductTemplate": "Hi, we added $PRODUCT_NAME to our store.\n\nCheck it out here:\n $URL",
+            "tweetOnNewEventTemplate": "Hi, don\"t forget to join us at $TITLE on $DATETIME.\n\n$URL"
+        }
+    }
+}

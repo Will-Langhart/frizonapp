@@ -1,0 +1,12 @@
+{
+    "events": {
+        "addNewContactsToZoho": {
+            "Contacts": true,
+            "Campaigns": true
+        }
+    },
+    "zoho": {
+        "accountsUrl": "https://accounts.zoho.com",
+        "redirectUri": "https://zohosite.wixsite.com/zoho"
+    }
+}
